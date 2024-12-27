@@ -6,7 +6,7 @@ Repositório de **Scripts Python**! Este repositório contém uma coleção de s
 
 ## 🛠️ Configuração do Ambiente
 
-Antes de executar os scripts, certifique-se de que o ambiente está configurado corretamente.
+   Antes de executar os scripts, certifique-se de que o ambiente está configurado corretamente.
 
 ### **1. Requisitos**
 - Python 3.8 ou superior.
